@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=80&section=header&text=Welcome!&fontSize=30&fontColor=ffffff)
-
 ## Hi there! I am Heekyung (Anne) Lee 👋
 
 I am a junior majoring Computer Science Engineering in [POSTECH](https://www.postech.ac.kr/eng/), currently an **exchange student at UC Berkeley** for the **2024 Fall semester**.
