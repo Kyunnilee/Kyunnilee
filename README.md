@@ -2,11 +2,13 @@
 
 I am a junior majoring Computer Science Engineering in [POSTECH](https://www.postech.ac.kr/eng/)(South Korea), currently an **exchange student at UC Berkeley** for the **2024 Fall semester**.
 <br>
+
 ### 📚 Academic Background
 - **UC Berkeley** Exchange Student (2024 Fall Semester)
 - **POSTECH**, Pohang University of Science and Technology (Class of 2026)
 - **Korean Minjok Leadership Academy** (Class of 2022)
 <br>
+
 ### 📫 How to reach me
 - **Email**: [anne030527@postech.ac.kr](mailto:anne030527@postech.ac.kr)
 - **LinkedIn**: [Heekyung Lee](www.linkedin.com/in/heekyung-lee-624753289)
