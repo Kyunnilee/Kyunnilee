@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
