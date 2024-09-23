@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contributions](https://github.com/users/yourusername/contributions)
