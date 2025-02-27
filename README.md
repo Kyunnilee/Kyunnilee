@@ -1,7 +1,7 @@
 ## Hi there! I am Heekyung (Anne) Lee 👋
 
-I am a junior majoring Computer Science Engineering in [POSTECH](https://www.postech.ac.kr/eng/)(South Korea), currently an **exchange student at UC Berkeley** for the **2024 Fall semester** and **2025 Spring semester**.
-I am interested in Computer Vision, Visual Language Models (Multimodal Models) and Large Language Model Agents.
+I am a Senior majoring Computer Science Engineering in [POSTECH](https://www.postech.ac.kr/eng/)(South Korea), currently an **exchange student at UC Berkeley** for the **2024 Fall semester** and **2025 Spring semester**.
+I am interested in Visual Language Models (Multimodal Models) and Large Language Model Agents.
 <br>
 
 ### 📚 Academic Background
@@ -11,6 +11,6 @@ I am interested in Computer Vision, Visual Language Models (Multimodal Models) a
 <br>
 
 ### 📫 How to reach me
-- **Email**: [anne030527@postech.ac.kr](mailto:anne030527@postech.ac.kr)
+- **Email**: [annelee5270@gmail.com](mailto:annelee5270@gmail.com)
 - **LinkedIn**: [Heekyung Lee](www.linkedin.com/in/heekyung-lee-624753289)
 
